@@ -14,8 +14,11 @@ Almeida, da Universidade Federal de Itajubá.
 _____
 
 Real-Time Operating System (RTOS): FreeRTOS
+
 Microcontroller used: Texas Instruments Tiva TM4C1294XL
+
 Integrated Development Environment (IDE): Code Composer Studio
+
 Compiler: Texas Instruments Compiler
 
 
